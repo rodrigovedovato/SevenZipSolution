@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SevenZip", "SevenZip\SevenZip.csproj", "{3E391D3E-3E87-47EA-8CE5-FA96E6BF2CFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SevenZip.Compression.LZ", "SevenZip.Compression.LZ\SevenZip.Compression.LZ.csproj", "{28EDFC52-A10F-4787-8C2E-274BA703A251}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SevenZip.Compression.LZMA", "SevenZip.Compression.LZMA\SevenZip.Compression.LZMA.csproj", "{00A0A2A8-544C-4D09-BAFE-4ABF4EE523A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SevenZip.Compression.RangeCoder", "SevenZip.Compression.RangeCoder\SevenZip.Compression.RangeCoder.csproj", "{1057F565-311C-47E0-A7AA-959C26D64650}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SevenZip.TestConsole", "SevenZip.TestConsole\SevenZip.TestConsole.csproj", "{C4477BC0-FE41-40F0-9F0F-FF7CC698453E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E391D3E-3E87-47EA-8CE5-FA96E6BF2CFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E391D3E-3E87-47EA-8CE5-FA96E6BF2CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E391D3E-3E87-47EA-8CE5-FA96E6BF2CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E391D3E-3E87-47EA-8CE5-FA96E6BF2CFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28EDFC52-A10F-4787-8C2E-274BA703A251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28EDFC52-A10F-4787-8C2E-274BA703A251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28EDFC52-A10F-4787-8C2E-274BA703A251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28EDFC52-A10F-4787-8C2E-274BA703A251}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00A0A2A8-544C-4D09-BAFE-4ABF4EE523A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00A0A2A8-544C-4D09-BAFE-4ABF4EE523A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00A0A2A8-544C-4D09-BAFE-4ABF4EE523A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00A0A2A8-544C-4D09-BAFE-4ABF4EE523A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1057F565-311C-47E0-A7AA-959C26D64650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1057F565-311C-47E0-A7AA-959C26D64650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1057F565-311C-47E0-A7AA-959C26D64650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1057F565-311C-47E0-A7AA-959C26D64650}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4477BC0-FE41-40F0-9F0F-FF7CC698453E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4477BC0-FE41-40F0-9F0F-FF7CC698453E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4477BC0-FE41-40F0-9F0F-FF7CC698453E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4477BC0-FE41-40F0-9F0F-FF7CC698453E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
