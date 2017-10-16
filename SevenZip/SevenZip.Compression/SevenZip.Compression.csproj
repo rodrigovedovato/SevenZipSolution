@@ -5,6 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\SevenZip.Compression.LZMA\SevenZip.Compression.LZMA.csproj" />
+    <ProjectReference Include="..\SevenZip.Compression.LZ\SevenZip.Compression.LZ.csproj" />
     <ProjectReference Include="..\SevenZip.Compression.RangeCoder\SevenZip.Compression.RangeCoder.csproj" />
     <ProjectReference Include="..\SevenZip\SevenZip.csproj" />
   </ItemGroup>

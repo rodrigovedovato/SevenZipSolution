@@ -1,9 +1,3 @@
-#region Header
-
-// CommandLineParser.cs
-
-#endregion Header
-
 namespace SevenZip
 {
     using System;

@@ -1,9 +1,3 @@
-#region Header
-
-// ICoder.h
-
-#endregion Header
-
 namespace SevenZip
 {
     using System;

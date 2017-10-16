@@ -1,4 +1,3 @@
-// Common/CRC.cs
 namespace SevenZip
 {
     public class CRC
